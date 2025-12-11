@@ -5,11 +5,11 @@ A secure, hybrid AES+RSA chat application with a modern GUI built using CustomTk
 
 **It features:**
 
--End-to-end AES-encrypted chat messages.
--RSA key exchange for secure AES session keys.
--Emoji support 😍.
--Light theme with orange accents.
--Phone-style chat layout.
+- End-to-end AES-encrypted chat messages.
+- RSA key exchange for secure AES session keys.
+- Emoji support 😍.
+- Light theme with orange accents.
+- Phone-style chat layout.
 
 ---
 
